@@ -1,4 +1,4 @@
-Gerenciador de Compras
+#Gerenciador de Compras
 Este projeto é um Gerenciador de Compras simples que permite aos usuários gerenciar suas finanças de forma prática. Com uma interface intuitiva, o aplicativo permite que você adicione um saldo inicial, insira os preços dos produtos que deseja comprar e a quantidade de cada item. O sistema calcula automaticamente o total gasto e o saldo restante, ajudando você a manter o controle do seu orçamento em tempo real.
 
 Funcionalidades:
